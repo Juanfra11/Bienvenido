@@ -10,6 +10,13 @@ public class Hola {
 		
 		System.out.println("Hola mundo!!!!!!");
 
+		System.out.println("Adios mundo!!!!!!");
+
+		System.out.println("Adios mundo!!!!!!");
+
+		System.out.println("Adios mundo!!!!!!");
+
+
 
 	}
 
